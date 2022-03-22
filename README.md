@@ -12,8 +12,6 @@ The OceanGuardian venture is divided into the **Ocean Guardians NFT** project an
 Our Ecosystem will act as a **Proof of Concept** for our Dynamic NFT Technology
 {% endhint %}
 
-****
-
 **Dynamic Labs** is our Web3 Technology Company building infrastructure and tools for Dynamic NFTs and incubating projects with a vision around Dynamic NFTs. A proportion of revenues generated from our services will be distributed to OceanGuardian Holders.
 
 
