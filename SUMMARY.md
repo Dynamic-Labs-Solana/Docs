@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Motivation and Vision](motivation-and-vision.md)
+* [Team](team.md)
 
 ## Dynamic NFTs
 
