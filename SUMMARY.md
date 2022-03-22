@@ -10,18 +10,16 @@
 
 ## OceanGuardian Ecosystem <a href="#Ecosystem" id="Ecosystem"></a>
 
-***
-
-* [The OceanGuardians](the-oceanguardians.md)
-* [Gamified Ecosystem](gamified-ecosystem/README.md)
-  * [Trait Swap](gamified-ecosystem/trait-swap.md)
-  * [Staking](gamified-ecosystem/staking.md)
-  * [Quests](gamified-ecosystem/quests.md)
-  * [Roadmap](gamified-ecosystem/roadmap.md)
-* [$WAVE](usdwave/README.md)
-  * [Utility](usdwave/utility.md)
-  * [Tokenomics](usdwave/tokenomics.md)
-  * [$xWave and LP](usdwave/usdxwave-and-lp.md)
+* [The OceanGuardians](Ecosystem/the-oceanguardians.md)
+* [Gamified Ecosystem](Ecosystem/gamified-ecosystem/README.md)
+  * [Trait Swap](Ecosystem/gamified-ecosystem/trait-swap.md)
+  * [Staking](Ecosystem/gamified-ecosystem/staking.md)
+  * [Quests](Ecosystem/gamified-ecosystem/quests.md)
+  * [Roadmap](Ecosystem/gamified-ecosystem/roadmap.md)
+* [$WAVE](Ecosystem/usdwave/README.md)
+  * [Utility](Ecosystem/usdwave/utility.md)
+  * [Tokenomics](Ecosystem/usdwave/tokenomics.md)
+  * [$xWave and LP](Ecosystem/usdwave/usdxwave-and-lp.md)
 
 ## Dynamic Labs
 
