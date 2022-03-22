@@ -7,10 +7,10 @@
 ## Dynamic NFTs
 
 * [Technology](dynamic-nfts/technology.md)
-* [Potential Markets](dynamic-nfts/potential-markets.md)
+* [Use Case & Potential Markets](dynamic-nfts/potential-markets.md)
 * [Case Study Examples](dynamic-nfts/case-study-examples.md)
 
-## OceanGuardian Ecosystem <a href="#Ecosystem" id="Ecosystem"></a>
+## OceanGuardian Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
 * [The OceanGuardians](Ecosystem/the-oceanguardians.md)
 * [Gamified Ecosystem](Ecosystem/gamified-ecosystem/README.md)
