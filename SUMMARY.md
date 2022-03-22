@@ -13,7 +13,7 @@
 ## OceanGuardian Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
 * [The OceanGuardians](Ecosystem/the-oceanguardians.md)
-* [Gamified Ecosystem](Ecosystem/gamified-ecosystem/README.md)
+* [Gamified NFT Ecosystem](Ecosystem/gamified-ecosystem/README.md)
   * [Trait Swap](Ecosystem/gamified-ecosystem/trait-swap.md)
   * [Staking](Ecosystem/gamified-ecosystem/staking.md)
   * [Quests](Ecosystem/gamified-ecosystem/quests.md)
