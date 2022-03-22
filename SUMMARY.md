@@ -6,7 +6,7 @@
 
 ## Dynamic NFTs
 
-* [The Technology](dynamic-nfts/the-technology.md)
+* [Technology](dynamic-nfts/technology.md)
 * [Potential Markets](dynamic-nfts/potential-markets.md)
 * [Case Study Examples](dynamic-nfts/case-study-examples.md)
 
