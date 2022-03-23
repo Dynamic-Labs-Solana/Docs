@@ -10,7 +10,9 @@ If you want to contact us about any of our services or tools, please join our [D
 We would love to talk to you!
 {% endhint %}
 
-`Includes:`
+## Project Incubation
+
+Includes:
 
 * `Dynamic NFT Consulting`
 * `Roadmap`
