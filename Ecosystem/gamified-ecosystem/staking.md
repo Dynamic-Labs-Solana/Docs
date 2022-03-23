@@ -7,6 +7,8 @@ There will be a staking pool for every location with a base reward rate (per hou
 * Size of the wave your OG is riding
 * Duration you are locking your OG
 
+![](../../.gitbook/assets/staking.jpg)
+
 There’s been some FUD recently that projects coming out with staking is no longer a bullish news but rather an exit liquidity event.
 
 This is due to the fact that projects release staking without creating any utility for the token that is being farmed. If there are no use-cases for the token, it is evident that it will get dumped and therefore decrease in price.

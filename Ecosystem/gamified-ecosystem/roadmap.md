@@ -6,4 +6,6 @@ We will create a **Trait Marketplace** on which our community will be able to tr
 
 Speaking of the relationship of multiple NFTs we plan to create mechanics around **NFT Real Estate** in our OceanGuardian Ecosystem. If you have multiple OceanGuardians with the right skills and stats you can open a `Surf School`, a `Diving School` or a `Board Shop`. With one of these shops, you can then earn rewards for training novice OceanGuardians.
 
-Below you’ll find our roadmap that shows the dates we want to have all of these utilities ready.&#x20;
+Below you’ll find our roadmap that shows the dates we want to have all of these utilities ready.
+
+![](../../.gitbook/assets/roadmapV3.jpg)

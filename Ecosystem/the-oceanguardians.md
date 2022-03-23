@@ -12,13 +12,13 @@ In addition to these visible attributes, each OceanGuardian can attain a `ROLE` 
 
 Every OceanGuardian will be riding at one of 10 different surf locations. For the location we chose 10 memorable and famous surf spots around the world. Different locations have different chances for airdropped items and have different quests to complete.
 
-
+![](../.gitbook/assets/locations.jpg)
 
 ### Waves
 
 There are three different wave boosts you can temporarily unlock either by purchasing it or as a reward for a quest. Larger waves allow your OG to complete quests quicker and with an increased yield but they run out after a certain period of time.
 
-
+![](../.gitbook/assets/waves.jpg)
 
 ### Boards
 
@@ -26,7 +26,7 @@ There are 15 boards which will be randomly assigned to your OceanGuardian. Board
 
 You can also combine different items you attain from quests in different locations to upgrade your board permanently.
 
-
+![](../.gitbook/assets/boardsV2.jpg)
 
 
 
@@ -39,3 +39,5 @@ There are 3 roles every OceanGuardian can attain: Traveler, Board Shaper & Kahun
 1. The Traveler will pay a reduced price for a location Transfer
 2. The Board Shaper will pay a reduced price for a Board swap
 3. The Kahuna will get extra rewards when riding a Big Wave
+
+![](../.gitbook/assets/Roles.png)
