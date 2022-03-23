@@ -22,7 +22,7 @@ There are three different wave boosts you can temporarily unlock either by purch
 
 ### Boards
 
-There are 15 boards which will be randomly assigned to your OceanGuardian. Boards have different perks that influence the yield return from quests and staking. After a certain amount of quests the board loses its power which reduces yield drastically. To gain back the original power you have to renew it.
+There are 15 boards which will be assigned to your OceanGuardian with a designated rarity. Boards have different perks that influence the yield return from quests and staking. After a certain amount of quests the board loses its power which reduces yield drastically. To gain back the original power you have to renew it.
 
 You can also combine different items you attain from quests in different locations to upgrade your board permanently.
 

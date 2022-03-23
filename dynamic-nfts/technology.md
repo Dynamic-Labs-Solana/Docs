@@ -2,7 +2,7 @@
 
 ## Dynamic NFTs
 
-The ability to create dynamic NFTs is our bread and butter. It is a new way of creating NFTs so that the underlying metadata and even the visual representation can be modified after the NFT has been created.
+The ability to create dynamic NFTs is our key competetive advantage. It is a new way of creating NFTs so that the underlying metadata and even the visual representation can be modified after the NFT has been created.
 
 > An NFT that is dynamically mutable, meaning its underlying information and appearance can change based on outside influences and triggers.
 

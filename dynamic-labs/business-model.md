@@ -1,6 +1,6 @@
 # Business Model
 
-Our Web3 incubator will help new creators and teams as well as established brands, launch NFTs, SaaS Apps, Games and more with our DynamicNFT technology through personalised support with strategy, design, dev and marketing.
+Our Web3 incubator will help new creators and teams as well as established brands, launch NFTs, SaaS Apps, Games and more with our DynamicNFT technology through personalised support with strategy, design, implementation and marketing. Dynamic Labs is also focusing in Research and Development of this technology. Through investments and case studies we aim to discover the full potential of Dynamic NFTs.
 
 Holding an OceanGuardian makes you eligible to receive a profit-share of the revenues created by Dynamic Labs. These returns for holders will be distributed via our gamified NFT ecosystem.
 
