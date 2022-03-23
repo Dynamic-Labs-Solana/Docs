@@ -16,10 +16,4 @@ Projects trying to innovate and build cool products in the following spaces:
 * Merchandising for Celebrities and Brands
 * more...
 
-Here you can learn more about the [use-cases and potential markets](../dynamic-nfts/potential-markets.md) of Dynamic NFTs
-
-
-
-
-
-\
+Here you can learn more about the [use-cases and potential markets](../dynamic-nfts/potential-markets.md) of Dynamic NFTs.
