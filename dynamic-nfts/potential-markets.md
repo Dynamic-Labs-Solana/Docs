@@ -10,7 +10,7 @@
 
 ## Potential Markets
 
-We are still continously researching Dynamic NFTs. There is a huge potential which likly takes many months or even years to discover. With our initial research we came up with **3 major potential markets for Dynamic NFTs**:
+We are still continuously researching Dynamic NFTs. There is a huge potential which likely takes many months or even years to be fully discovered. With our initial research we came up with **3 major potential markets for Dynamic NFTs**:
 
 ### GAMING&#x20;
 
@@ -18,17 +18,27 @@ We are still continously researching Dynamic NFTs. There is a huge potential whi
 2. **REAL WORLD EVENTS** (e.g. sports)
 3. **GAMBLING**
 
-d
-
-Now we will give you some real world examples:
-
-### REAL WORLD EVENTS
-
 ### Ad 1. Gaming
 
-d
+With Gaming, there are many opportunities to integrate Dynamic NFTs and create fully on-chain games. For example Dynamic NFTs could display the condition of your skin / item. The more you use it, the more it deteriorates. Additionally, Dynamic NFTs allow us to create interrelated NFTs, which means that there will be a relation between multiple NFTs.
 
-With Gaming, there are many opportunities to integrate Dynamic NFTs. For example Dynamic NFTs could display the condition of your skin / item. The more you use it, the fruther it deteriorates. Also Dynamic NFTs open up the opportunity to make NFTs interrelatable, which means that there will be a relation between each NFT. This opens up space for many innovative and new game mechanics and enables the game creators to realize all their ideas.
+Here are two examples in gaming:
+
+#### Fantasy Sports
+
+If you don't know what fantasy sports is check it our on [Wikipedia](https://en.wikipedia.org/wiki/Fantasy\_sport).&#x20;
+
+With Dynamic NFTs we can create Dynamic "Player" NFTs that together make a "Team". The stats of a _player_ can be adjusted over time and _players_ can evolve. All _player_ NFTs of a team are interrelated to each other making the entire game logic run on-chain.
+
+We can also integrate other mechanics to a fantasy sports ecosystem, for example fractionalized team ownership, tournaments and training-centres.
+
+These basic concepts apply to all kinds of Fantasy Games ranging from sports like Football & Basketball to fight-sports and even e-sports.
+
+
+
+#### RPG Games
+
+Item Marketplace
 
 ### GAMBLING
 
