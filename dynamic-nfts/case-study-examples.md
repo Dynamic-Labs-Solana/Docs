@@ -1,3 +1,3 @@
 # Case Study Examples
 
-Coming Soon.
+Coming Soon!

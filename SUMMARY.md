@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [Motivation and Vision](motivation-and-vision.md)
 * [Team](team.md)
 
