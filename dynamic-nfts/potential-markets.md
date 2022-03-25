@@ -34,11 +34,11 @@ These basic concepts apply to all kinds of Fantasy Games ranging from sports lik
 
 #### RPGs
 
-Role Playing Games are a perfect fit for Dynamic NFTs because they rely on mechanics like character upgradability, an item system and environment interactions within the ecosystem.
+Role Playing Games are a perfect fit for Dynamic NFTs because they rely on mechanics like character upgradability, a gaming item economy and environment interactions within the ecosystem.
 
 Characters are Dynamic NFTs evolving over time as new items and weapons are discovered and crafted while interacting in the RPG world.
 
-We are working to create a special purpose marketplace for in-game items (NFTs) and upgrades for them.
+We are working to create a special purpose platform for a in-game item economies based on NFTs) and upgrades for them. We are also planning to develop item rentals and loans between players.
 
 
 
