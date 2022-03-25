@@ -10,14 +10,12 @@
 
 ## Potential Markets
 
-We are still continuously researching Dynamic NFTs. There is a huge potential which likely takes many months or even years to be fully discovered. With our initial research we came up with **3 major potential markets for Dynamic NFTs**:
-
-### GAMING&#x20;
+We are still continuously researching Dynamic NFTs. There is a huge potential which likely takes many months or even years to be fully discovered. With our initial research we came up with **3** **major potential markets for Dynamic NFTs**:&#x20;
 
 1. **GAMING**
-2. **REAL WORLD EVENTS** (e.g. sports)
-3. **GAMBLING**
-4. **MERCHANDISING**
+2. **REAL WORLD EVENTS** (ticketing)
+3. **MERCHANDISING**
+4. **Liscensing**
 
 ****
 
@@ -49,13 +47,27 @@ We are working to create a special purpose marketplace for in-game items (NFTs) 
 
 ### 2. Real World Events
 
-Dynamic NFTs can also improve real world events and their implications. Let’s say you own an NFT trading card of a football player that shows his stats. After every game the stats of your card are updated depending on goals, fouls, etc.\
-Also a ticket to a sporting event can be an NFT. If you add our Dynamic features, this will enable the issuer to update the ticket even if the event is postponed.\
-Dynamic NFTs could also be used for identification. Imagine your ID as an NFT, making it impossible to counterfeit. Every 5 years for example, you have to update your picture or maybe you marry and your Surname changes. With Dynamic NFTs the issuer of the digital ID could just update the metadata in real-time.
+`Useable NFT tickets for all types of events`
+
+\
+The power of NFT-ticketing lies in it's ability to engineer desired attendee-behaviour. This is done by rewarding user-participation and engagement. This is what we could compare with reward points, discounts etc. A user receives an NFT that is able to collect credit when the user participates in a certain way. Credits can then be redeemed for physical items and discounts.
+
+Types of events:
+
+* Conferences/Seminars
+* Trade Shows
+* Workshops
+* Sport events
+* Music Events\
 
 
 
-### 3. Gambling
+
+\
+Also a ticket to a sporting event can be an NFT. If you add our  features, this will enable the issuer to update the ticket even if the event is postponed.
+
+
 
 ### 4. Merchandising
 
+Dynamic NFTs can also improve real world events and their implications. Let’s say you own an NFT trading card of a football player that shows his stats. After every game the stats of your card are updated depending on goals, fouls, etc.
