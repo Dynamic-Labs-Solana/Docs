@@ -13,6 +13,9 @@ is a Computer Science Student on a break to build infrastructure for Dynamic NFT
 **MarcDaFish** | Creative Director\
 Operates his own design agency in Durban, South Africa and makes sure the OceanGuardians theme stays consistent and organised
 
+**Bjorn** | Full stack Developer\
+The man for everything web3 integration and&#x20;
+
 **Chrilow** | Illustrator\
 Is the artist that designed the OceanGuardians from concept to final NFT. He is a surfer himself which helps with the genuinity of our art. He works with MarcDaFish
 
