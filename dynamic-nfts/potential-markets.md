@@ -15,9 +15,6 @@ We are still continuously researching Dynamic NFTs. There is a huge potential wh
 1. **GAMING**
 2. **REAL WORLD EVENTS** (ticketing)
 3. **MERCHANDISING**
-4. **Liscensing**
-
-****
 
 ### 1. Gaming
 
@@ -58,7 +55,7 @@ Types of events:
 * Trade Shows
 * Workshops
 * Sport events
-* Music Events\
+* Music Festivals\
 
 
 
