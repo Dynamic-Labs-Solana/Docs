@@ -1,2 +1,0 @@
-# $xWave and LP
-

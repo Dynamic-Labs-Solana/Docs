@@ -21,13 +21,11 @@
 * [$WAVE](Ecosystem/usdwave/README.md)
   * [Utility](Ecosystem/usdwave/utility.md)
   * [Tokenomics](Ecosystem/usdwave/tokenomics.md)
-  * [$xWave and LP](Ecosystem/usdwave/usdxwave-and-lp.md)
 
 ## Dynamic Labs
 
 * [Business Model](dynamic-labs/business-model.md)
 * [Offering](dynamic-labs/offering.md)
-* [Ambassador Program](dynamic-labs/ambassador-program.md)
 
 ***
 

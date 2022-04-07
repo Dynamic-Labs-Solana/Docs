@@ -1,16 +1,8 @@
 # Use Case & Potential Markets
 
-## Context
-
-* The purpose of a blockchain is basically to keep track of asset ownership
-* The purpose of smart contracts is to create relationships between different assets.\
-  \-> For example the relationship between of an asset and its price\
-  \
-  What does that mean for NFTs?
-
 ## Potential Markets
 
-We are still continuously researching Dynamic NFTs. There is a huge potential which likely takes many months or even years to be fully discovered. With our initial research we came up with **3** **major potential markets for Dynamic NFTs**:&#x20;
+We are still continuously researching Dynamic NFTs. There is a huge potential which likely takes many months or even years to be fully discovered. With our initial research we came up with **3** **major potential markets for Dynamic NFTs**:
 
 1. **GAMING**
 2. **REAL WORLD EVENTS** (ticketing)
@@ -24,7 +16,7 @@ With Gaming, there are many opportunities to integrate Dynamic NFTs and create f
 
 #### Fantasy Sports
 
-If you don't know what fantasy sports is check it our on [Wikipedia](https://en.wikipedia.org/wiki/Fantasy\_sport).&#x20;
+If you don't know what fantasy sports is check it our on [Wikipedia](https://en.wikipedia.org/wiki/Fantasy\_sport).
 
 With Dynamic NFTs we can create Dynamic "Player" NFTs that together make a "Team". The stats of a _player_ can be adjusted over time and _players_ can evolve. All _player_ NFTs of a team are interrelated to each other making the entire game logic run on-chain.
 
@@ -55,16 +47,16 @@ Types of events:
 * Trade Shows
 * Workshops
 * Sport events
-* Music Festivals\
-
-
-
+* Music Festivals\\
 
 \
-Also a ticket to a sporting event can be an NFT. If you add our  features, this will enable the issuer to update the ticket even if the event is postponed.
+Also a ticket to a sporting event can be an NFT. If you add our features, this will enable the issuer to update the ticket even if the event is postponed.
 
 
 
-### 4. Merchandising
+### 3. Merchandising
 
-Dynamic NFTs can also improve real world events and their implications. Let’s say you own an NFT trading card of a football player that shows his stats. After every game the stats of your card are updated depending on goals, fouls, etc.
+With Merchandising we mean utilising Dynamic NFTs as a way to engage shoppers in a way like old-school loyalty points tried to do.
+
+We can use them as a way for brand to reward local customers or use Dynamic NFTs to redefine and improve the relationship of a Celebrity/Influencer with their audience.\
+\

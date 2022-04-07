@@ -17,7 +17,7 @@ Operates his own design agency in Durban, South Africa and makes sure the OceanG
 The man for everything web3 integration and front-end development.
 
 **BenJammin** | Illustrator\
-Is the artist that designed the OceanGuardians from concept to final NFT. He is a surfer himself which helps with the genuinity of our art. He works with MarcDaFish
+Is the artist that designed the OceanGuardians from concept to final NFT. He is a surfer himself and works closely with MarcDaFish
 
-**TristWolf** | Community\
-Makes sure everybody in the community feels welcomed and no questions are left unanswered.
+**TristWolf** | Graphic Design\
+Involved in a lot of the Graphics work that is needed on a daily basis
