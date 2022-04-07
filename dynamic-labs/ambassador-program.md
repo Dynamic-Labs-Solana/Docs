@@ -1,3 +1,0 @@
-# Ambassador Program
-
-Coming soon!
