@@ -4,9 +4,9 @@
 
 The OceanGuardian venture is divided into the **Ocean Guardians NFT** project and **Dynamic Labs.**
 
-****
+***
 
-**OceanGuardians** is a next-gen NFT collection of 3,333 unique Surfers designed around the Dynamic NFT technology. We are building a gamified NFT ecosystem using the power of Dynamic NFTs to design mechanics around evolving/upgrading our surfers creating demand and real utility for our token.
+**OceanGuardians** is a next-gen NFT collection of 2,222 unique Surfers designed around the Dynamic NFT technology. We are building a gamified NFT ecosystem using the power of Dynamic NFTs to design mechanics around evolving/upgrading our surfers creating demand and real utility for our token.
 
 {% hint style="info" %}
 Our Ecosystem will serve as a **Proof of Concept** for our Dynamic NFT Technology
