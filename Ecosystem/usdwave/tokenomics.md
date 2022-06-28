@@ -52,6 +52,10 @@ As we release more products like Quests, or a Trait Marketplace there will be mo
 
 ### Liquidity Pool
 
-We decided to start distributing $WAVE through staking and **will not** provide liquidity for $WAVE initially. \
+We decided to start distributing $WAVE through staking and **will not** provide liquidity for $WAVE initially. We anticipate this to reduce sell pressure in the beginning which will be positive for the long-term future of $WAVE.\
 \
 As we move onto further launch waves, we are planning to open-up a liquidity pool for $WAVE and NFT holders to supply their liquidity and earn more $WAVE. More on that later!
+
+
+
+In the end, to profit the most long-term, the way to go is to accumulate $WAVE. We are planning to distribute a profit-share from Dynamic Labs later on to both $WAVE and OceanGuardian holders. Right now we are working on a mixed pool that combines an OceanGuardian with a certain amount of $WAVE.
