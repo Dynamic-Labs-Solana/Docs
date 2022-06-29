@@ -24,11 +24,3 @@ While we haven't yet fixated the exact variables for the distribution of the Dyn
 Summary:\
 To be eligible to earn a share of the revenues of Dynamic Labs you'll have to pair one OceanGuardian with a certain amount of $WAVE. The stats and attributes of your OceanGuardian will influence your share.&#x20;
 {% endhint %}
-
-## Ecosystem Mechanics
-
-Now that we've given you a reason to accumulate $WAVE you will be asking how to best prepare for when we start the profit distribution.
-
-There will be many multiple different strategies since every NFT starts with randomly generated layers. Let's say you minted one OceanGuardian
-
-I encourage you to check out the sections about our [gamified NFT ecosystem](../gamified-ecosystem/). There you'll find most of your answers. As we roll out the features of our ecosystem we will also encourage the participation of the community in finding better strategies for $WAVE.
