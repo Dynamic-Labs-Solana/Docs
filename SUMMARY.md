@@ -21,6 +21,7 @@
 * [$WAVE](Ecosystem/usdwave/README.md)
   * [Utility](Ecosystem/usdwave/utility.md)
   * [Tokenomics](Ecosystem/usdwave/tokenomics.md)
+  * [Trait Stats](ecosystem/usdwave/trait-stats.md)
 
 ## Dynamic Labs
 

@@ -6,13 +6,11 @@ The OceanGuardians are surfer, uniquely generated from over 150 different attrib
 
 In addition to these visible attributes, each OceanGuardian can attain a `ROLE` (invisible attribute) by completing **quests**. Each of these dynamic traits offers different perks and benefits in our experimental game-fi ecosystem.
 
-
-
 ### Locations
 
 Every OceanGuardian will be riding at one of 10 different surf locations. For the location we chose 10 memorable and famous surf spots around the world. Different locations have different chances for airdropped items and have different quests to complete.
 
-![](../.gitbook/assets/locations.jpg)
+![](<../.gitbook/assets/locations (1).jpg>)
 
 ### Waves
 
@@ -27,8 +25,6 @@ There are 15 boards which will be assigned to your OceanGuardian with a designat
 You can also combine different items you attain from quests in different locations to upgrade your board permanently.
 
 ![](../.gitbook/assets/boardsV2.jpg)
-
-
 
 ### Roles
 
